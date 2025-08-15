@@ -9,11 +9,11 @@ do not scaffold a new controller over the existing one. We must learn to fix bug
 - .NET 9 and VS 2022
 
 ## Your tasks
-- First task is to fix the compile time issues so the project will build
-- Run the code first migrations to create the database (the migrations are already present and the database will be seeded with data)
-- Ensure that the navigation links work
-    - The home link should go to the default page in the Home controller
-    - The students link should go to the Index of the Students controller
+- (x)First task is to fix the compile time issues so the project will build
+- ( )Run the code first migrations to create the database (the migrations are already present and the database will be seeded with data)
+- ( )Ensure that the navigation links work
+    - ( )The home link should go to the default page in the Home controller
+    - ( )The students link should go to the Index of the Students controller
 - Ensure all CRUD pages work and data is saved correctly to the database
   - [ ] Ensure the index page shows a paginated list of students
   - [ ] Ensure the edit page updates the existing student records
